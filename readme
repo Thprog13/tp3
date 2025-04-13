@@ -1,0 +1,14 @@
+Support Ticket API
+
+Une API REST construite avec Node.js, Express, JWT, bcrypt, express-validator, et SQLite3 (via Knex).  
+Elle permet de gérer un système de tickets de support pour des utilisateurs, techniciens et administrateurs.
+
+- Node.js
+- Express
+- SQLite3 (Knex)
+- JWT (authentification)
+- Bcrypt (hash de mots de passe)
+- express-validator (validation)
+
+```bash
+npm install
